@@ -12,16 +12,16 @@ I'm a **Full Stack Developer** with a focus on Python, TypeScript, and JavaScrip
 
 | Backend | Frontend | Tools & Others |
 |---------|----------|----------------|
-| Python  🐍 | React / Next.js ⚛️ | Git & GitHub  |
+| Python   | React / Next.js  | Git & GitHub  |
 | Django / Flask | TypeScript / JavaScript | Docker |
 | SQL / PostgreSQL | HTML / CSS | VS Code |
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 🌱 Always learning new frameworks and libraries  
-- 💻 Currently working on full-stack projects and automation scripts  
-- 🎯 Goal: Build clean, maintainable, and performant software  
+-  Always learning new frameworks and libraries  
+-  Currently working on full-stack projects and automation scripts  
+-  Goal: Build clean, maintainable, and performant software  
 
 ---
