@@ -8,14 +8,6 @@ I'm a **Full Stack Developer** with a focus on Python, TypeScript, and JavaScrip
 
 ---
 
-## 📊 GitHub Stats
-
-![Ryuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryukadll&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryukadll&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tech Stack
 
 | Backend | Frontend | Tools & Others |
