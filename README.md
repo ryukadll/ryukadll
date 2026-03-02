@@ -1,4 +1,4 @@
-# Hi there, I'm Ryuka 👋
+# Hi there, I'm Ryuka.
 
 I'm a **Full Stack Developer** with a focus on Python, TypeScript, and JavaScript.  
 
