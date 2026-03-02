@@ -25,8 +25,3 @@ I'm a **Full Stack Developer** with a focus on Python, TypeScript, and JavaScrip
 - 🎯 Goal: Build clean, maintainable, and performant software  
 
 ---
-
-## 📫 Connect with Me
-
-- [GitHub](https://github.com/ryukadll)  
-- [LinkedIn](https://www.linkedin.com/in/ryuka) (optional)  
