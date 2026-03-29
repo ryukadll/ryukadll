@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** with a focus on Python, TypeScript, and JavaScrip
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Backend | Frontend | Tools & Others |
 |---------|----------|----------------|
